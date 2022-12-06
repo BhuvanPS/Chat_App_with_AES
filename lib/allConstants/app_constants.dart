@@ -1,5 +1,5 @@
 class AppConstants {
-  static const appTitle = "Flutter Chat Demo";
+  static const appTitle = "Cn Project";
   static const loginTitle = "Login";
   static const homeTitle = "Home";
   static const settingsTitle = "Settings";
